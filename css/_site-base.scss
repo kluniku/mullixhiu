@@ -1,0 +1,25 @@
+$white: #fff;
+$black: #000;
+$primary: #ea6d27;
+$dark: #101a24;
+$light: #f3f4f4;
+$body_color: #5c6574;
+
+$sm: 576px;
+$md: 768px;
+$lg: 992px;
+$xl: 1200px;
+$xxl: 1400px;
+
+$font-family: "Inter, sans-serif";
+$font-family-serif: "Daivd Libre", serif;
+
+body,
+html {
+  overflow-x: hidden;
+}
+
+body {
+  font-family: $font-family;
+  color: $body_color;
+}
